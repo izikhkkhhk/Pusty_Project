@@ -7,5 +7,10 @@
     "test": "nodemon index.js"
   },
   "author": "Bohdan Bura",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "g": "^2.0.1",
+    "pg": "^8.14.1"
+  }
 }
